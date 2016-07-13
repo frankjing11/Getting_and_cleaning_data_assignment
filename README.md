@@ -1,4 +1,6 @@
 # Getting and cleaning data
+
+
 For creating a tidy data set of wearable computing data collected from the accelerometers from the Samsung Galaxy S smartphone
 
 ## Files in this repo
