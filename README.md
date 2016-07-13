@@ -1,6 +1,4 @@
-# Getting_and_cleaning_data_assignment
-
-Codebook for wearable computing dataset
+Codebook
 ==================================
 
 ## Variables
